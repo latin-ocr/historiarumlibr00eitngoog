@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarumlibr00eitngoog/historiarumlibr00eitngoog_0274.png"; bbox 0 0 2658 4250; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 251 551 1098 745">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 251 551 1098 745">
+     <span class='ocr_line' id='line_1_1' title="bbox 251 551 1098 745; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 251 581 918 745; x_wconf 74' lang='lat' dir='ltr'>WORTERBUOH</span> <span class='ocrx_word' id='word_1_2' title='bbox 1096 551 1098 554; x_wconf 70' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 69 1115 1253 1314">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 69 1115 1253 1314">
+     <span class='ocr_line' id='line_1_2' title="bbox 69 1115 1253 1314; baseline -0.002 -1"><span class='ocrx_word' id='word_1_3' title='bbox 69 1115 365 1313; x_wconf 74' lang='lat' dir='ltr'><strong>Jusfin⁹s</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 396 1165 1103 1314; x_wconf 74' lang='lat' dir='ltr'>Gesehichtsbiiehern</span> <span class='ocrx_word' id='word_1_5' title='bbox 1252 1265 1253 1270; x_wconf 27' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 339 1573 832 1675">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 339 1573 832 1675">
+     <span class='ocr_line' id='line_1_3' title="bbox 339 1573 832 1675; baseline 0.004 -29"><span class='ocrx_word' id='word_1_6' title='bbox 339 1577 400 1646; x_wconf 69' lang='lat' dir='ltr'>fiir</span> <span class='ocrx_word' id='word_1_7' title='bbox 428 1577 500 1648; x_wconf 78' lang='lat' dir='ltr'>den</span> <span class='ocrx_word' id='word_1_8' title='bbox 529 1573 832 1675; x_wconf 73' lang='lat' dir='ltr'><strong>Schulgebrauch</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 327 3328 837 3626">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 327 3328 837 3626">
+     <span class='ocr_line' id='line_1_4' title="bbox 483 3328 681 3402; baseline 0.015 -16"><span class='ocrx_word' id='word_1_9' title='bbox 483 3328 681 3402; x_wconf 66' lang='lat' dir='ltr'><strong>BREsLAu</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 327 3459 837 3511; baseline 0.002 -2"><span class='ocrx_word' id='word_1_10' title='bbox 327 3461 577 3510; x_wconf 65' lang='lat' dir='ltr'><strong>MAltUscHKss</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 597 3459 618 3509; x_wconf 85' lang='lat'>&amp;</span> <span class='ocrx_word' id='word_1_12' title='bbox 636 3461 837 3511; x_wconf 78' lang='lat' dir='ltr'>BERENDT.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 537 3569 628 3626; baseline 0.022 -2"><span class='ocrx_word' id='word_1_13' title='bbox 537 3569 628 3626; x_wconf 60' lang='lat'>1885.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1334 4250">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1334 4250">
+     <span class='ocr_line' id='line_1_7' title="bbox 0 0 1334 4250; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1334 4250; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
